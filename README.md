@@ -17,8 +17,8 @@
 **📫 Reach me at :**<br>
 
 
-[![GitHub: rnblaina](https://img.shields.io/github/followers/rnblaina?label=pasyabill&style=social)](https://github.com/rnblaina)
+[![GitHub: rnblaina](https://img.shields.io/github/followers/rnblaina?label=rnblaina&style=social)](https://github.com/rnblaina)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=pasyabill.visitor-badge)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rnblaina.visitor-badge)
 
 </div>  
